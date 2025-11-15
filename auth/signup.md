@@ -1,3 +1,4 @@
+```mermaid
 ---
 config:
   theme: redux-dark
@@ -47,3 +48,5 @@ flowchart TB
     classDef errorNode stroke:#FF0033, stroke-width:2px, fill:#FFE5E9, color:#8E001A
     classDef startNode stroke:#00B36B, stroke-width:2px, fill:#D7FFE9, color:#035E3F
     classDef endNode stroke:#007BFF, stroke-width:2px, fill:#E0ECFF, color:#003A80
+
+```
